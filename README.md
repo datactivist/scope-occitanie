@@ -1,3 +1,5 @@
+# Le livre blanc en résumé
+
 L’ouverture des données de la commande publique a été rendue obligatoire le 1<sup>er</sup> octobre 2018. Depuis cette date, les acheteurs publics doivent publier les données essentielles de leurs marchés publics et de leurs concessions dont le montant est supérieur à 25 000 € HT sur leurs profils d’acheteur. 
 
 Le projet [SCOPE](http://scope-occitanie.mystrikingly.com/) (Source de la Commande Publique Ouverte Pour les Entreprises) a pour ambition de rendre les données de la commande publique ouverte en créant un point d’accès unique et dématérialisé pour la diffusion et l’échange des données de marchés publics à l’échelle d’une région, l’Occitanie. Lauréat en 2017 d’un financement Programme d’Investissements d’Avenir (PIA), ce projet piloté par la plate-forme régionale des achats de l’Etat (PFRA) d’Occitanie entend aller au-delà de l’obligation réglementaire d’ouverture des données d’attribution des marchés publics. 
