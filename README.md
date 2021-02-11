@@ -25,7 +25,7 @@ Face à ces obstacles de nature juridique, technique, économique et institution
 *   En 2022, **_les données ouvertes de la commande publique qui sont librement accessibles sur une plateforme centralisée (futur souhaitable 1)_** (marchespublics.data.gouv.fr). 
 *   **_Cette ouverture des données de consultation a permis l’émergence de nouveaux services d’aide à la prise de décision_** _(futur souhaitable 2)_
 *   La **_commande publique est simplifiée et outillée de données standardisées_** (_futur souhaitable 3_)
-*   **_La donnée est devenue une partie intégrante des compétences professionnelles associées à la fonction achat _** (_futur souhaitable 4_)
+*   **_La donnée est devenue une partie intégrante des compétences professionnelles associées à la fonction achat_** (_futur souhaitable 4_)
 *   **_La commande publique ouverte évolue vers un modèle de gouvernance plus collaboratif et consultatif_** (_futur souhaitable 5_).
 
 ## Comment tendre vers une commande publique pleinement ouverte ? Les 8 préconisations du livre blanc
