@@ -26,6 +26,8 @@ Le projet [SCOPE](http://scope-occitanie.mystrikingly.com/) (Source de la Comman
 
 Lors d’un événement organisé et piloté par Datactivist, le projet SCOPE a réuni le 4 juin 2019 à Toulouse différents acteurs de la commande publique (acheteurs publics, entreprises répondant à des procédures de marchés publics, éditeurs de profils d’acheteur, représentants institutionnels…) afin d’avoir une réflexion prospective sur l’ouverture des données de consultation des marchés publics. La philosophie qui a animée cet événement visait à rendre possible et à mettre en valeur des convergences entre des acteurs appartenant à un écosystème complexe, aux intérêts parfois contradictoires et disposant de peu d’occasions d’échanges.
 
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://aperi.tube/videos/embed/fd8f466c-21e2-4a39-8e8d-75a0b1de5120?title=0&warningTitle=0" frameborder="0" allowfullscreen></iframe>
+
 ## Trois obstacles qui freinent l'ouverture des données de la commande publique
 La journée du 4 juin 2019 ainsi que des entretiens menés auprès de praticiens de la commande publique ont permis de dresser un constat partagé sur la situation actuelle de l’ouverture des données de la commande publique. 
 
